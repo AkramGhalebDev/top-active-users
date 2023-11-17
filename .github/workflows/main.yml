@@ -16,8 +16,5 @@ jobs:
         with:
           node-version: 14.17.0
       - uses: akramghaleb/top-active-users-action@main
-        run: |
-          touch .env
-          echo CUSTOM_TOKEN=${{ secrets.CUSTOM_TOKEN }} >> .env
         env:
           CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
