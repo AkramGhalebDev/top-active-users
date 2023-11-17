@@ -1,9 +1,11 @@
-# Top GitHub Users By Country
+# Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/akramghaleb/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/akramghaleb/insights/blob/master/readme/373383893/week.md)
+[![Top GitHub Users](https://github.com/akramghaleb/top-active-users/actions/workflows/action.yml/badge.svg)](https://github.com/akramghaleb/top-active-users/actions/workflows/action.yml) [![Image of insights](https://github.com/akramghaleb/insights/blob/master/svg/373383893/badge.svg)](https://github.com/akramghaleb/insights/blob/master/readme/373383893/week.md)
+
 <a href="https://akramghaleb.github.io/top-active-users/index.html">
 	<img align="right" width="400" src="https://github.com/akramghaleb/top-active-users-monitor/raw/master/public/images/banner/top-active-users-map.png" alt="top-active-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/11/17 10:25 PM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2023/11/17 10:27 PM UTC`.
 
 This repository contains users `1 countries` and `22 cities`. 
 To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/akramghaleb/top-active-users/blob/main/config.json).
