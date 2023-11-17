@@ -21,4 +21,4 @@ jobs:
       - name: create env file
         run: |
           touch .env
-          echo ENGINE_API_KEY=${{ secrets.ENGINE_API_KEY }} >> .env
+          echo CUSTOM_TOKEN=${{ secrets.CUSTOM_TOKEN }} >> .env
