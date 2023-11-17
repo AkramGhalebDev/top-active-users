@@ -1,6 +1,4 @@
-# Top GitHub Users By Country [<img alt="Image of insights" src="https://github.com/akramghaleb/insights/blob/master/graph/373383893/small/week.png" height="24">](https://github.com/akramghaleb/insights/blob/master/readme/373383893/week.md)
-[![Top GitHub Users](https://github.com/akramghaleb/top-active-users/actions/workflows/action.yml/badge.svg)](https://github.com/akramghaleb/top-active-users/actions/workflows/action.yml) [![Image of insights](https://github.com/akramghaleb/insights/blob/master/svg/373383893/badge.svg)](https://github.com/akramghaleb/insights/blob/master/readme/373383893/week.md)
-
+# Top GitHub Users By Country
 <a href="https://akramghaleb.github.io/top-active-users/index.html">
 	<img align="right" width="400" src="https://github.com/akramghaleb/top-active-users-monitor/raw/master/public/images/banner/top-active-users-map.png" alt="top-active-users-by-country">
 </a>
