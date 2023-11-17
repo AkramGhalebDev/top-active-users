@@ -1,8 +1,7 @@
 name: Top GitHub Users
 on:
   schedule:
-    - cron: '0 1-23 * * *'
-    - cron: '0 0 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 jobs:
   release:
