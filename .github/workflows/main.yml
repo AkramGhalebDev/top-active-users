@@ -1,0 +1,21 @@
+name: Top GitHub Users
+on:
+  schedule:
+    # Triggers the workflow every 5 minutes [minutes, hours, days, months, every number of days]
+    - cron: '*/50 * * * *'
+  workflow_dispatch:
+jobs:
+  release:
+    name: GitHub Active Users
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2.3.4
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.CUSTOM_TOKEN }}
+      - uses: actions/setup-node@v2.1.5
+        with:
+          node-version: 14.17.0
+      - uses: akramghaleb/top-active-users-action@main
+        env:
+          CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
