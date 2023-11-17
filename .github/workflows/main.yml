@@ -18,4 +18,4 @@ jobs:
           node-version: 14.17.0
       - uses: akramghaleb/top-active-users-action@main
         env:
-          CUSTOM_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
