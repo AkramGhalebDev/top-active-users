@@ -15,6 +15,11 @@ jobs:
       - uses: actions/setup-node@v2.1.5
         with:
           node-version: 14.17.0
+      - name: create env file
+        run: |
+          touch .env
+          echo CUSTOM_TOKEN=${{ secrets.CUSTOM_TOKEN }} >> .env
       - uses: akramghaleb/top-active-users-action@main
         env:
           CUSTOM_TOKEN: ${{ secrets.CUSTOM_TOKEN }}
+
