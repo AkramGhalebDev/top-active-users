@@ -5,10 +5,10 @@
 	<img align="right" width="400" src="https://github.com/akramghaleb/top-active-users-monitor/raw/master/public/images/banner/top-active-users-map.png" alt="top-active-users-by-country">
 </a>
 
-List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/4/18 8:14 AM UTC`.
+List of most active GitHub users based on `public contributions` `private contributions` and `number of followers`  by country or state. The list updated `2024/4/18 9:11 AM UTC`.
 
 This repository contains users `1 countries` and `22 cities`. 
-To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/akramghaleb/top-active-users/blob/main/config.json).
+To get into the list you need to have minimum number of followers that varies in each country. The list can be found in [config.json](https://github.com/AkramGhalebDev/top-active-users/blob/main/config.json).
 
 Contribute to GitHub action [akramghaleb/top-active-users-action](https://github.com/akramghaleb/top-active-users-action). The project maintained by [akramghaleb](https://github.com/akramghaleb). Don't forget to follow him on [GitHub](https://github.com/akramghaleb), [Twitter](https://twitter.com/akramghaleb), and [Medium](https://akramghaleb.medium.com/).
 
@@ -25,57 +25,57 @@ Contribute to GitHub action [akramghaleb/top-active-users-action](https://github
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/akramghaleb/top-active-users&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/AkramGhalebDev/top-active-users&_rdc=1&_rdr">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/akramghaleb/top-active-users&app_id=291494419107518&redirect_uri=https://github.com/akramghaleb/top-active-users">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/AkramGhalebDev/top-active-users&app_id=291494419107518&redirect_uri=https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Country&url=https://github.com/akramghaleb/top-active-users">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Country&url=https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Country https://github.com/akramghaleb/top-active-users">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Country https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/akramghaleb/top-active-users&text=Top%20GitHub%20Users%20By%20Country">
+			<a href="https://t.me/share/url?url=https://github.com/AkramGhalebDev/top-active-users&text=Top%20GitHub%20Users%20By%20Country">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Country&url=https://github.com/akramghaleb/top-active-users">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Country&url=https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/akramghaleb/top-active-users">
+			<a href="https://vk.com/share.php?url=https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/akramghaleb/top-active-users">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/akramghaleb/top-active-users&t=Top%20GitHub%20Users%20By%20Country&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/AkramGhalebDev/top-active-users&t=Top%20GitHub%20Users%20By%20Country&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Country&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country-https://github.com/akramghaleb/top-active-users">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Country&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country-https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Country&url=https://github.com/akramghaleb/top-active-users">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Country&url=https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -93,7 +93,7 @@ Contribute to GitHub action [akramghaleb/top-active-users-action](https://github
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/akramghaleb/top-active-users/blob/main/markdown/public_contributions/yemen.md">
+			<a href="https://github.com/AkramGhalebDev/top-active-users/blob/main/markdown/public_contributions/yemen.md">
 				Yemen
 			</a>
 		</td>
@@ -129,57 +129,57 @@ Contribute to GitHub action [akramghaleb/top-active-users-action](https://github
 <table>
 	<tr>
 		<td>
-			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/akramghaleb/top-active-users&_rdc=1&_rdr">
+			<a href="https://web.facebook.com/sharer.php?t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/AkramGhalebDev/top-active-users&_rdc=1&_rdr">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.facebook.com/dialog/send?link=https://github.com/akramghaleb/top-active-users&app_id=291494419107518&redirect_uri=https://github.com/akramghaleb/top-active-users">
+			<a href="https://www.facebook.com/dialog/send?link=https://github.com/AkramGhalebDev/top-active-users&app_id=291494419107518&redirect_uri=https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/raw/master/public/images/icons/facebook_messenger.svg" height="48" width="48" alt="Facebook Messenger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Country&url=https://github.com/akramghaleb/top-active-users">
+			<a href="https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Country&url=https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Country https://github.com/akramghaleb/top-active-users">
+			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Country https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/share/url?url=https://github.com/akramghaleb/top-active-users&text=Top%20GitHub%20Users%20By%20Country">
+			<a href="https://t.me/share/url?url=https://github.com/AkramGhalebDev/top-active-users&text=Top%20GitHub%20Users%20By%20Country">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Country&url=https://github.com/akramghaleb/top-active-users">
+			<a href="https://www.linkedin.com/shareArticle?title=Top%20GitHub%20Users%20By%20Country&url=https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://vk.com/share.php?url=https://github.com/akramghaleb/top-active-users">
+			<a href="https://vk.com/share.php?url=https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/vkontakte.svg" height="48" width="48" alt="Vkontakte"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/akramghaleb/top-active-users">
+			<a href="https://www.blogger.com/blog-this.g?n=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&t=Top%20GitHub%20Users%20By%20Country&u=https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/blogger.svg" height="48" width="48" alt="Blogger"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/akramghaleb/top-active-users&t=Top%20GitHub%20Users%20By%20Country&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&i=">
+			<a href="https://wordpress.com/wp-admin/press-this.php?u=https://github.com/AkramGhalebDev/top-active-users&t=Top%20GitHub%20Users%20By%20Country&s=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country&i=">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/wordpress.svg" height="48" width="48" alt="Wordpress"/>
 			</a>
 		</td>
 		<td>
-			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Country&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country-https://github.com/akramghaleb/top-active-users">
+			<a href="mailto:recipient name?cc=cc&bcc=bcc&subject=Top%20GitHub%20Users%20By%20Country&body=List%20of%20most%20active%20github%20users%20based%20on%20public%20contributions,%20total%20contributions,%20and%20number%20of%20followers%20by%20country-https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/gmail.svg" height="48" width="48" alt="Email"/>
 			</a>
 		</td>
 		<td>
-			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Country&url=https://github.com/akramghaleb/top-active-users">
+			<a href="https://www.reddit.com/submit?title=Top%20GitHub%20Users%20By%20Country&url=https://github.com/AkramGhalebDev/top-active-users">
 				<img src="https://github.com/akramghaleb/github-active-users-monitor/blob/master/public/images/icons/reddit.svg" height="48" width="48" alt="Reddit"/>
 			</a>
 		</td>
@@ -193,7 +193,7 @@ Contribute to GitHub action [akramghaleb/top-active-users-action](https://github
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 ## 📄 License
 
-- GitHub Action - [akramghaleb/top-active-users-action](https://github.com/akramghaleb/top-active-users-action)
-- Repository - [akramghaleb/top-active-users](https://github.com/akramghaleb/top-active-users)
+- GitHub Action - [AkramGhalebDev/top-active-users-action](https://github.com/AkramGhalebDev/top-active-users-action)
+- Repository - [AkramGhalebDev/top-active-users](https://github.com/AkramGhalebDev/top-active-users)
 - Data in the `./cache` directory - [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 - Code - [MIT](./LICENSE) © [Vite](https://github.com/akramghaleb)
